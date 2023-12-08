@@ -1,4 +1,4 @@
-import styled, { CSSObject } from 'styled-components';
+import styled from 'styled-components';
 
 import Select, { Props } from 'react-select';
 import { Region } from '../../types';
